@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IterApp</string>
+    <string name="etName">Nombre</string>
+    <string name="etCity">Ciudad</string>
+    <string name="etDate">Fecha de visita</string>
+    <string name="btOk">confirmar</string>
+    <string name="etImage">Imagen</string>
+    <string name="default_country">Seleccionar país</string>
+    <string name="btDelete">eliminar</string>
+    <string name="confirmar">confirmar</string>
+    <string name="cancelar">cancelar</string>
+</resources>
